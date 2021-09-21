@@ -1,4 +1,4 @@
-const posts = [{
+const postList = [{
     id: 0,
     description: "beautiful landscape",
     imageLink: "https://image.jimcdn.com/app/cms/image/transf/none/path/sa6549607c78f5c11/image/i4eeacaa2dbf12d6d/version/1490299332/most-beautiful-landscapes-in-europe-lofoten-european-best-destinations-copyright-iakov-kalinin.jpg" +
@@ -14,4 +14,4 @@ const posts = [{
     }]
 
 
-export default posts
+export default postList
