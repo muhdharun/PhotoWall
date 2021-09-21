@@ -33,6 +33,11 @@ h1 {
     text-decoration: none;
    }
 
+h1 a{
+    color: black;
+    text-decoration: none;
+}
+
 @font-face {
     font-family: 'Billabong';
     src: local('Billabong'), url('https://fonts.cdnfonts.com/s/13949/Billabong.woff') format('woff');
